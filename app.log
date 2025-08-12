@@ -1,0 +1,486 @@
+2025-07-30 23:26:54,988 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:26:56,540 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-07-30 23:26:56,928 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-07-30 23:26:56,963 - INFO - ✅ Scaler berhasil dimuat
+2025-07-30 23:26:57,442 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:26:57,442 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:26:57,442 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:26:57,445 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:27:48,096 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:27:49,700 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-07-30 23:27:49,958 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-07-30 23:27:50,009 - INFO - ✅ Scaler berhasil dimuat
+2025-07-30 23:27:50,624 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:27:50,627 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:27:50,627 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:27:50,627 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:27:52,289 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-07-30 23:28:01,966 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:01,996 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:01,998 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:01,999 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:01,999 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:28:07,960 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:07,977 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:07,979 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:07,979 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:07,980 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:28:17,163 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:17,187 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:17,189 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:17,189 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:17,189 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:28:18,611 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:18,625 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:18,625 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:18,625 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:18,625 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:28:25,165 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:25,179 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:25,187 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:25,187 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:25,189 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:28:42,377 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:28:42,389 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:28:42,391 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:28:42,391 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:28:42,391 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:29:52,562 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:29:52,593 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:29:52,597 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:29:52,599 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:29:52,599 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:29:54,407 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:29:54,424 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:29:54,430 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:29:54,430 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:29:54,432 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:32:13,449 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:32:13,463 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:32:13,463 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:32:13,467 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:32:13,467 - INFO - ✅ Menggunakan scaler fallback
+2025-07-30 23:33:50,526 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-30 23:33:50,542 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-30 23:33:50,542 - INFO - ✅ Scaler berhasil di-fit
+2025-07-30 23:33:50,546 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-30 23:33:50,546 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 09:10:31,880 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 09:10:33,143 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-07-31 09:10:33,414 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-07-31 09:10:33,458 - INFO - ✅ Scaler berhasil dimuat
+2025-07-31 09:10:34,086 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 09:10:34,086 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 09:10:34,086 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 09:10:34,086 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 09:10:36,349 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-07-31 09:10:44,309 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 09:10:44,332 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 09:10:44,332 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 09:10:44,333 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 09:10:44,333 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 09:10:45,787 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 09:10:45,808 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 09:10:45,808 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 09:10:45,813 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 09:10:45,813 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 09:32:27,015 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 09:32:28,000 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 09:32:28,010 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 09:32:28,018 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 09:32:28,018 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 09:32:51,117 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 09:32:51,140 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 09:32:51,140 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 09:32:51,140 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 09:32:51,143 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 10:20:14,819 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 10:20:16,499 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-07-31 10:20:16,868 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-07-31 10:20:17,042 - INFO - ✅ Scaler berhasil dimuat
+2025-07-31 10:20:17,698 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 10:20:17,700 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 10:20:17,700 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 10:20:17,700 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 10:20:20,143 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-07-31 10:27:48,997 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 10:27:49,028 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 10:27:49,028 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 10:27:49,028 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 10:27:49,028 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 10:27:50,887 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 10:27:50,904 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 10:27:50,904 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 10:27:50,906 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 10:27:50,906 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 10:27:56,764 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 10:27:56,779 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 10:27:56,781 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 10:27:56,782 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 10:27:56,784 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 10:27:59,619 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 10:27:59,632 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 10:27:59,637 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 10:27:59,637 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 10:27:59,639 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 11:44:01,370 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 11:44:01,829 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 11:44:01,829 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 11:44:01,834 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 11:44:01,834 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 11:44:16,680 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 11:44:16,714 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 11:44:16,716 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 11:44:16,718 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 11:44:16,718 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 11:45:13,279 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 11:45:13,295 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 11:45:13,296 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 11:45:13,296 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 11:45:13,298 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 11:45:14,540 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 11:45:14,554 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 11:45:14,554 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 11:45:14,554 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 11:45:14,554 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 16:23:48,172 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 16:23:49,619 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 16:23:50,053 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 16:23:50,331 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 16:23:50,335 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 16:23:50,335 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 19:38:06,079 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-07-31 19:38:07,682 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-07-31 19:38:08,077 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-07-31 19:38:08,261 - INFO - ✅ Scaler berhasil dimuat
+2025-07-31 19:38:09,744 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-07-31 19:38:09,758 - INFO - ✅ Scaler berhasil di-fit
+2025-07-31 19:38:09,758 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-07-31 19:38:09,760 - INFO - ✅ Menggunakan scaler fallback
+2025-07-31 19:38:12,515 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-01 14:37:15,552 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-01 14:37:17,157 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-01 14:37:17,591 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-01 14:37:17,779 - INFO - ✅ Scaler berhasil dimuat
+2025-08-01 14:37:18,313 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-01 14:37:18,315 - INFO - ✅ Scaler berhasil di-fit
+2025-08-01 14:37:18,317 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-01 14:37:18,317 - INFO - ✅ Menggunakan scaler fallback
+2025-08-01 14:37:20,877 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-01 14:44:54,027 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-01 14:44:54,058 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-01 14:44:54,059 - INFO - ✅ Scaler berhasil di-fit
+2025-08-01 14:44:54,061 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-01 14:44:54,061 - INFO - ✅ Menggunakan scaler fallback
+2025-08-01 14:44:57,489 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-01 14:44:57,505 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-01 14:44:57,510 - INFO - ✅ Scaler berhasil di-fit
+2025-08-01 14:44:57,512 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-01 14:44:57,514 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:16:54,031 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:16:55,692 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-07 12:16:56,085 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-07 12:16:56,267 - INFO - ✅ Scaler berhasil dimuat
+2025-08-07 12:16:56,872 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:16:56,879 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:16:56,881 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:16:56,881 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:16:59,355 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-07 12:18:52,200 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:18:52,224 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:18:52,224 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:18:52,224 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:18:52,224 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:18:54,150 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:18:54,170 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:18:54,170 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:18:54,170 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:18:54,170 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:24:33,313 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:24:33,360 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:24:33,377 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:24:33,383 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:24:33,385 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:24:34,685 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:24:34,694 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:24:34,699 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:24:34,699 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:24:34,699 - INFO - ✅ Menggunakan scaler fallback
+2025-08-07 12:24:43,078 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-07 12:24:43,099 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-07 12:24:43,099 - INFO - ✅ Scaler berhasil di-fit
+2025-08-07 12:24:43,102 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-07 12:24:43,102 - INFO - ✅ Menggunakan scaler fallback
+2025-08-08 09:18:44,110 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-08 09:18:45,712 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-08 09:18:46,114 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-08 09:18:46,296 - INFO - ✅ Scaler berhasil dimuat
+2025-08-08 09:18:46,881 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-08 09:18:46,888 - INFO - ✅ Scaler berhasil di-fit
+2025-08-08 09:18:46,888 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-08 09:18:46,888 - INFO - ✅ Menggunakan scaler fallback
+2025-08-08 09:18:49,684 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-08 09:19:32,816 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-08 09:19:32,845 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-08 09:19:32,845 - INFO - ✅ Scaler berhasil di-fit
+2025-08-08 09:19:32,845 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-08 09:19:32,845 - INFO - ✅ Menggunakan scaler fallback
+2025-08-08 09:19:34,586 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-08 09:19:34,598 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-08 09:19:34,602 - INFO - ✅ Scaler berhasil di-fit
+2025-08-08 09:19:34,602 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-08 09:19:34,602 - INFO - ✅ Menggunakan scaler fallback
+2025-08-10 21:17:20,756 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-10 21:17:22,390 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-10 21:17:22,779 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-10 21:17:22,959 - INFO - ✅ Scaler berhasil dimuat
+2025-08-10 21:17:23,759 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-10 21:17:23,764 - INFO - ✅ Scaler berhasil di-fit
+2025-08-10 21:17:23,764 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-10 21:17:23,764 - INFO - ✅ Menggunakan scaler fallback
+2025-08-10 21:17:26,610 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-10 21:55:48,877 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-10 21:55:49,546 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-10 21:55:49,556 - INFO - ✅ Scaler berhasil di-fit
+2025-08-10 21:55:49,558 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-10 21:55:49,558 - INFO - ✅ Menggunakan scaler fallback
+2025-08-10 22:05:31,230 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-10 22:05:31,250 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-10 22:05:31,250 - INFO - ✅ Scaler berhasil di-fit
+2025-08-10 22:05:31,250 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-10 22:05:31,250 - INFO - ✅ Menggunakan scaler fallback
+2025-08-11 14:41:55,899 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-11 14:41:56,877 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-11 14:41:57,127 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-11 14:41:57,240 - INFO - ✅ Scaler berhasil dimuat
+2025-08-11 14:41:57,967 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-11 14:41:57,970 - INFO - ✅ Scaler berhasil di-fit
+2025-08-11 14:41:57,970 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-11 14:41:57,970 - INFO - ✅ Menggunakan scaler fallback
+2025-08-11 14:41:59,865 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-11 14:43:46,961 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-11 14:43:47,891 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-11 14:43:48,058 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-11 14:43:48,076 - INFO - ✅ Scaler berhasil dimuat
+2025-08-11 14:43:48,542 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-11 14:43:48,547 - INFO - ✅ Scaler berhasil di-fit
+2025-08-11 14:43:48,547 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-11 14:43:48,547 - INFO - ✅ Menggunakan scaler fallback
+2025-08-11 14:43:49,779 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-11 17:42:04,538 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-11 17:42:05,492 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-11 17:42:05,734 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-11 17:42:05,765 - INFO - ✅ Scaler berhasil dimuat
+2025-08-11 17:42:06,242 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-11 17:42:06,248 - INFO - ✅ Scaler berhasil di-fit
+2025-08-11 17:42:06,248 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-11 17:42:06,248 - INFO - ✅ Menggunakan scaler fallback
+2025-08-11 17:42:07,610 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-12 22:51:02,756 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:51:04,202 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:51:04,759 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:51:04,923 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:51:07,416 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 22:51:07,416 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:51:07,430 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 22:51:07,430 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 22:51:07,436 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 22:51:07,436 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 22:51:07,436 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 22:51:10,430 - INFO - Data berhasil diambil: 0 baris
+2025-08-12 22:51:10,430 - ERROR - Error tidak terduga: index 0 is out of bounds for axis 0 with size 0
+2025-08-12 22:51:16,980 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:51:17,979 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:51:18,247 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:51:18,267 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:51:18,630 - ERROR - Gagal mengambil data dari CoinGecko: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2025-08-12 22:51:18,813 - ERROR - Gagal mengambil data dari CoinGecko: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/ohlc?vs_currency=usd&days=7
+2025-08-12 22:51:37,185 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:51:38,564 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:51:39,048 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:51:39,106 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:51:39,330 - ERROR - Gagal mengambil data dari CoinGecko: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/ohlc?vs_currency=usd&days=7
+2025-08-12 22:51:39,479 - ERROR - Gagal mengambil data dari CoinGecko: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/ohlc?vs_currency=usd&days=7
+2025-08-12 22:52:53,254 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:52:54,385 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:52:54,702 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:52:54,721 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:53:01,696 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:53:01,697 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 22:53:01,697 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:53:01,697 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 22:53:01,697 - WARNING - ⚠️ Nilai OHLC sama semua, kemungkinan ada masalah dengan data
+2025-08-12 22:53:01,697 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 22:53:01,709 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 22:53:01,709 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 22:53:01,709 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 22:53:03,281 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:53:03,281 - INFO - Data berhasil diambil: 0 baris
+2025-08-12 22:53:03,281 - WARNING - Data kosong setelah processing
+2025-08-12 22:54:41,339 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:54:42,356 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:54:42,715 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:54:42,749 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:54:43,912 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:54:43,914 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 22:54:43,914 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:54:43,918 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 22:54:43,918 - WARNING - ⚠️ Nilai OHLC sama semua, kemungkinan ada masalah dengan data
+2025-08-12 22:54:43,918 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 22:54:43,918 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 22:54:43,918 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 22:54:43,923 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 22:54:47,484 - INFO - Data OHLC shape: (8, 4)
+2025-08-12 22:54:47,484 - INFO - Volume shape: (169, 1)
+2025-08-12 22:54:47,484 - INFO - Final shape after merge: (8, 5)
+2025-08-12 22:54:47,484 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:54:47,485 - INFO - Data berhasil diambil: 8 baris
+2025-08-12 22:54:47,487 - INFO - Range tanggal: 2025-08-05 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:54:47,487 - INFO - Sample data:
+                Open      High       Low     Close  Volume
+Date                                                      
+2025-08-05  114789.0  114830.0  112770.0  113544.0     0.0
+2025-08-06  113733.0  115663.0  113400.0  115238.0     0.0
+2025-08-07  115210.0  117404.0  114325.0  117404.0     0.0
+2025-08-08  117445.0  117596.0  115979.0  116457.0     0.0
+2025-08-09  116450.0  117786.0  116368.0  116579.0     0.0
+2025-08-12 22:54:47,487 - INFO - ✅ Nilai OHLC bervariasi (normal)
+2025-08-12 22:56:23,190 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:56:24,227 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:56:24,579 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:56:24,611 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:56:29,407 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:56:29,411 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 22:56:29,411 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:56:29,418 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 22:56:29,418 - WARNING - ⚠️ Nilai OHLC sama semua, kemungkinan ada masalah dengan data
+2025-08-12 22:56:29,419 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 22:56:29,419 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 22:56:29,419 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 22:56:29,419 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 22:56:32,414 - INFO - Data OHLC shape: (8, 4)
+2025-08-12 22:56:32,414 - INFO - Volume shape: (169, 1)
+2025-08-12 22:56:32,414 - INFO - Final shape after merge: (8, 5)
+2025-08-12 22:56:32,414 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 22:56:32,414 - INFO - Data berhasil diambil: 8 baris
+2025-08-12 22:56:32,414 - INFO - Range tanggal: 2025-08-05 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 22:56:32,428 - INFO - Sample data:
+                Open      High       Low     Close  Volume
+Date                                                      
+2025-08-05  114789.0  114830.0  112770.0  113544.0     0.0
+2025-08-06  113733.0  115663.0  113400.0  115238.0     0.0
+2025-08-07  115210.0  117404.0  114325.0  117404.0     0.0
+2025-08-08  117445.0  117596.0  115979.0  116457.0     0.0
+2025-08-09  116450.0  117786.0  116368.0  116579.0     0.0
+2025-08-12 22:56:32,428 - INFO - ✅ Nilai OHLC bervariasi (normal)
+2025-08-12 22:56:39,429 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 22:56:40,380 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 22:56:40,656 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 22:56:40,674 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 22:56:41,093 - WARNING - ⚠️ Rate limit tercapai, menggunakan fallback market_chart...
+2025-08-12 22:56:41,093 - INFO - 🔄 Menggunakan fallback market_chart API...
+2025-08-12 22:56:41,264 - ERROR - Fallback juga gagal: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=365
+2025-08-12 22:56:41,446 - WARNING - ⚠️ Rate limit tercapai, menggunakan fallback market_chart...
+2025-08-12 22:56:41,446 - INFO - 🔄 Menggunakan fallback market_chart API...
+2025-08-12 22:56:41,645 - ERROR - Fallback juga gagal: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=7
+2025-08-12 23:03:37,132 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 23:03:38,064 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 23:03:38,454 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 23:03:38,488 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 23:03:41,886 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 23:03:41,888 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 23:03:41,888 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 23:03:41,897 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 23:03:41,898 - WARNING - ⚠️ Nilai OHLC sama semua, kemungkinan ada masalah dengan data
+2025-08-12 23:03:41,900 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 23:03:41,900 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 23:03:41,901 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 23:03:41,901 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 23:03:52,464 - INFO - Data OHLC shape: (8, 4)
+2025-08-12 23:03:52,464 - INFO - Volume shape: (169, 1)
+2025-08-12 23:03:52,464 - INFO - Final shape after merge: (8, 5)
+2025-08-12 23:03:52,464 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 23:03:52,466 - INFO - Data berhasil diambil: 8 baris
+2025-08-12 23:03:52,466 - INFO - Range tanggal: 2025-08-05 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 23:03:52,472 - INFO - Sample data:
+                Open      High       Low     Close  Volume
+Date                                                      
+2025-08-05  114789.0  114830.0  112770.0  113544.0     0.0
+2025-08-06  113733.0  115663.0  113400.0  115238.0     0.0
+2025-08-07  115210.0  117404.0  114325.0  117404.0     0.0
+2025-08-08  117445.0  117596.0  115979.0  116457.0     0.0
+2025-08-09  116450.0  117786.0  116368.0  116579.0     0.0
+2025-08-12 23:03:52,472 - INFO - ✅ Nilai OHLC bervariasi (normal)
+2025-08-12 23:04:40,530 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 23:04:41,481 - INFO - ℹ️ Menggunakan TensorFlow versi: 2.16.1
+2025-08-12 23:04:41,663 - INFO - ✅ Model berhasil dimuat dengan custom_objects
+2025-08-12 23:04:41,686 - INFO - ✅ Scaler berhasil dimuat
+2025-08-12 23:04:43,114 - INFO - ✅ Berhasil menggunakan data OHLC dari CoinGecko
+2025-08-12 23:04:43,114 - INFO - Data berhasil diambil: 365 baris
+2025-08-12 23:04:43,114 - INFO - Range tanggal: 2024-08-13 00:00:00 hingga 2025-08-12 00:00:00
+2025-08-12 23:04:43,114 - INFO - Sample data:
+                    Open          High           Low         Close        Volume
+Date                                                                            
+2024-08-13  59350.074333  59350.074333  59350.074333  59350.074333  3.940330e+10
+2024-08-14  60601.223178  60601.223178  60601.223178  60601.223178  3.195558e+10
+2024-08-15  58739.193822  58739.193822  58739.193822  58739.193822  2.807991e+10
+2024-08-16  57624.116929  57624.116929  57624.116929  57624.116929  3.349025e+10
+2024-08-17  58881.925792  58881.925792  58881.925792  58881.925792  3.036824e+10
+2025-08-12 23:04:43,114 - WARNING - ⚠️ Nilai OHLC sama semua, kemungkinan ada masalah dengan data
+2025-08-12 23:04:43,129 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 23:04:43,130 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 23:04:43,130 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 23:04:43,130 - INFO - ✅ Menggunakan scaler fallback
+2025-08-12 23:04:44,191 - WARNING - From C:\Users\verdi\AppData\Roaming\Python\Python311\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-12 23:05:21,685 - INFO - ✅ TensorFlow dan TCN berhasil diimport
+2025-08-12 23:05:21,697 - INFO - 🔄 Fitting scaler dengan data historis...
+2025-08-12 23:05:21,697 - INFO - ✅ Scaler berhasil di-fit
+2025-08-12 23:05:21,700 - INFO - ✅ Menggunakan model asli (TCN-BiLSTM-GRU)
+2025-08-12 23:05:21,700 - INFO - ✅ Menggunakan scaler fallback
