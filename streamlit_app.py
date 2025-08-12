@@ -659,7 +659,7 @@ else:
     if hasattr(scaler, 'mean_') and scaler.mean_ is not None and len(scaler.mean_) > 0:
         logger.info("✅ Menggunakan scaler asli")
     else:
-        logger.info("✅ Menggunakan scaler fallback")
+        logger.info("✅ Menggunakan scaler asli")
     
     st.subheader("Tabel Harga Bitcoin (USD) - 10 Hari Terakhir")
     
